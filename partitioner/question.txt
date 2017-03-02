@@ -1,0 +1,11 @@
+We have a dataset of sales of different TV sets across different locations.
+Records look like:
+Samsung|Optima|14|Madhya Pradesh|132401|14200
+The fields are arranged like:
+Company Name|Product Name|Size in inches|State|Pin Code|Price
+4. Write a Map Reduce program to modify Task 2 (refer session 4, assignment 2) to use a custom partitioner with 4 reducers.
+Make sure that all records whose company name starts with A-F (upper or lower case) should go to 1st reducer,
+those starting with G-L to 2nd reducer, those starting with M-R to 3rd reducer and others to 4th reducer.
+
+Note : Task 2 ((refer session 4, assignment 2))
+Write a Map Reduce program to calculate the total units sold for each Company.

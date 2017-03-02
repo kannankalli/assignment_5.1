@@ -1,0 +1,8 @@
+
+hadoop jar /home/acadgild/Desktop/TotalUnitsSoldByCompanyWithPartitioner.jar /user/acadgild/television.txt /user/acadgild/out_partitioner
+
+
+
+
+
+

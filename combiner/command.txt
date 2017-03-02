@@ -1,0 +1,8 @@
+
+hadoop jar /home/acadgild/Desktop/TotalUnitsSoldByCompanyWithCombiner.jar /user/acadgild/television.txt /user/acadgild/out_combiner
+
+
+
+
+
+
